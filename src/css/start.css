@@ -1,0 +1,44 @@
+.option__button {
+  display: block;
+  width: 70%;
+  height: 100%;
+  padding: 1.5rem 1.5rem;
+  margin: 5%;
+  cursor: pointer;
+  background-color: #2851a3;
+  color: white;
+  font-size: 1.4rem;
+  border-radius: 1rem;
+  outline: none;
+  border: 3px solid transparent;
+}
+
+.option__button:hover {
+  background-color: #224892;
+}
+
+.start__button {
+  display: block;
+  width: 35%;
+  margin-left: 20%;
+  padding: 1.5rem 1.5rem;
+  cursor: pointer;
+  background-color: #2851a3;
+  color: white;
+  font-size: 1.4rem;
+  border-radius: 1rem;
+  outline: none;
+  border: 3px solid transparent;
+}
+
+.start__button:hover {
+  background-color: #224892;
+}
+
+select {
+  text-align: center;
+}
+
+div {
+  margin: 5% auto;
+}
