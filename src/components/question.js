@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import shuffle from '../shuffle';
+import shuffle from '../utils/shuffle';
 import '../css/question.css';
 
 function Question({
